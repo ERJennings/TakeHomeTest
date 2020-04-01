@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TakeHomeTest</string>
+    <string name="integerText">Enter an integer number here:</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="one">1</string>
+
 </resources>
