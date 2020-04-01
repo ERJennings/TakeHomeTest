@@ -3,6 +3,6 @@
     <string name="integerText">Enter an integer number here:</string>
     <string name="start">Start</string>
     <string name="cancel">Cancel</string>
-    <string name="one">1</string>
+    <string name="ten">10</string>
 
 </resources>
